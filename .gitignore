@@ -1,0 +1,15 @@
+# --- Ce NU se urcă pe GitHub ---
+
+# Cursurile și temele rămân doar local
+cursuri/
+teme/
+
+# Date și rezultate generate
+date/
+output/
+
+# Fișiere temporare RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
